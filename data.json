@@ -1,0 +1,94 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "This project is a random quote generator.  There is a button that will show a new quote.  The page will also automatically load a new quote.  When a new quotes loads, the page will also change to a new random color.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://payneb35.github.io/random-quote-generator/",
+            "github_link": "https://github.com/payneb35/random-quote-generator.git",
+            "image_urls": [
+                "/images/random-quote-generator/random-quote-generator-img1.PNG",
+                "/images/random-quote-generator/random-quote-generator-img3.PNG",
+                "/images/random-quote-generator/random-quote-generator-img4.PNG",
+                "/images/random-quote-generator/random-quote-generator-img5.PNG"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "List Pagination and Filtering",
+            "description": "This is a web page that utilizes pagination to help simplify the navigation of a page of users.  This page also implements a search feature to help find certain users, and it updates the pagination upon searching.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://payneb35.github.io/data-pagination-and-filtering-v1/",
+            "github_link": "https://github.com/payneb35/data-pagination-and-filtering-v1.git",
+            "image_urls": [
+                "/images/list-pagination-and-filtering/list-pagination-and-filtering-img1.PNG",
+                "/images/list-pagination-and-filtering/list-pagination-and-filtering-img2.PNG",
+                "/images/list-pagination-and-filtering/list-pagination-and-filtering-img3.PNG",
+                "/images/list-pagination-and-filtering/list-pagination-and-filtering-img4.PNG"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "This project is an interactive form that uses form validation.  It takes in multiple fields, and ensures that all required fields have valid inputs before submission.  It also uses other user input to modify the form and update options based on previous selections or input.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://payneb35.github.io/Interactive-Form/",
+            "github_link": "https://github.com/payneb35/Interactive-Form.git",
+            "image_urls": [
+                "/images/interactive-form/interactive-form-img1.PNG",
+                "/images/interactive-form/interactive-form-img2.PNG",
+                "/images/interactive-form/interactive-form-img3.PNG",
+                "/images/interactive-form/interactive-form-img4.PNG"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "This is a phrase guessing game that showcases the use of object-oriented JavaScript.  Upon starting the game, a random phrase is loaded and displayed with blank characters.  Players guess letters using their keyboard or an on-screen keyboard.  If they get every letter correct, they win.  If they haven't won and get five incorrect guesses, they lose!",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://payneb35.github.io/phrase-hunter-game/",
+            "github_link": "https://github.com/payneb35/phrase-hunter-game.git",
+            "image_urls":  [
+                "/images/oop-game-show-app/oop-game-show-app-img1",
+                "/images/oop-game-show-app/oop-game-show-app-img1",
+                "/images/oop-game-show-app/oop-game-show-app-img1",
+                "/images/oop-game-show-app/oop-game-show-app-img1"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "This page utilizes a public API to pull in random 'employee' data and display it.  This page also has a search feature, and it allows you to click on an employee to display a modal window with more details.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://payneb35.github.io/public_api_request/",
+            "github_link": "https://github.com/payneb35/public_api_request.git",
+            "image_urls": [
+                "/images/public-api-request/public-api-request-img1.PNG",
+                "/images/public-api-request/public-api-request-img2.PNG",
+                "/images/public-api-request/public-api-request-img3.PNG",
+                "/images/public-api-request/public-api-request-img4.PNG"
+            ]
+        }
+    ]
+}
