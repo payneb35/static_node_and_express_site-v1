@@ -12,10 +12,10 @@
             "live_link": "https://payneb35.github.io/random-quote-generator/",
             "github_link": "https://github.com/payneb35/random-quote-generator.git",
             "image_urls": [
-                "/images/random-quote-generator/random-quote-generator-img1.PNG",
-                "/images/random-quote-generator/random-quote-generator-img3.PNG",
-                "/images/random-quote-generator/random-quote-generator-img4.PNG",
-                "/images/random-quote-generator/random-quote-generator-img5.PNG"
+                "/static/random-quote-generator/random-quote-generator-img1.PNG",
+                "/static/random-quote-generator/random-quote-generator-img3.PNG",
+                "/static/random-quote-generator/random-quote-generator-img4.PNG",
+                "/static/random-quote-generator/random-quote-generator-img5.PNG"
             ]
         },
         {
@@ -30,10 +30,10 @@
             "live_link": "https://payneb35.github.io/data-pagination-and-filtering-v1/",
             "github_link": "https://github.com/payneb35/data-pagination-and-filtering-v1.git",
             "image_urls": [
-                "/images/list-pagination-and-filtering/list-pagination-and-filtering-img1.PNG",
-                "/images/list-pagination-and-filtering/list-pagination-and-filtering-img2.PNG",
-                "/images/list-pagination-and-filtering/list-pagination-and-filtering-img3.PNG",
-                "/images/list-pagination-and-filtering/list-pagination-and-filtering-img4.PNG"
+                "/static/list-pagination-and-filtering/list-pagination-and-filtering-img1.PNG",
+                "/static/list-pagination-and-filtering/list-pagination-and-filtering-img2.PNG",
+                "/static/list-pagination-and-filtering/list-pagination-and-filtering-img3.PNG",
+                "/static/list-pagination-and-filtering/list-pagination-and-filtering-img4.PNG"
             ]
         },
         {
@@ -48,10 +48,10 @@
             "live_link": "https://payneb35.github.io/Interactive-Form/",
             "github_link": "https://github.com/payneb35/Interactive-Form.git",
             "image_urls": [
-                "/images/interactive-form/interactive-form-img1.PNG",
-                "/images/interactive-form/interactive-form-img2.PNG",
-                "/images/interactive-form/interactive-form-img3.PNG",
-                "/images/interactive-form/interactive-form-img4.PNG"
+                "/static/interactive-form/interactive-form-img1.PNG",
+                "/static/interactive-form/interactive-form-img2.PNG",
+                "/static/interactive-form/interactive-form-img3.PNG",
+                "/static/interactive-form/interactive-form-img4.PNG"
             ]
         },
         {
@@ -66,10 +66,10 @@
             "live_link": "https://payneb35.github.io/phrase-hunter-game/",
             "github_link": "https://github.com/payneb35/phrase-hunter-game.git",
             "image_urls":  [
-                "/images/oop-game-show-app/oop-game-show-app-img1",
-                "/images/oop-game-show-app/oop-game-show-app-img1",
-                "/images/oop-game-show-app/oop-game-show-app-img1",
-                "/images/oop-game-show-app/oop-game-show-app-img1"
+                "/static/oop-game-show-app/oop-game-show-app-img1.PNG",
+                "/static/oop-game-show-app/oop-game-show-app-img2.PNG",
+                "/static/oop-game-show-app/oop-game-show-app-img3.PNG",
+                "/static/oop-game-show-app/oop-game-show-app-img4.PNG"
             ]
         },
         {
@@ -84,10 +84,10 @@
             "live_link": "https://payneb35.github.io/public_api_request/",
             "github_link": "https://github.com/payneb35/public_api_request.git",
             "image_urls": [
-                "/images/public-api-request/public-api-request-img1.PNG",
-                "/images/public-api-request/public-api-request-img2.PNG",
-                "/images/public-api-request/public-api-request-img3.PNG",
-                "/images/public-api-request/public-api-request-img4.PNG"
+                "/static/public-api-request/public-api-request-img1.PNG",
+                "/static/public-api-request/public-api-request-img2.PNG",
+                "/static/public-api-request/public-api-request-img3.PNG",
+                "/static/public-api-request/public-api-request-img4.PNG"
             ]
         }
     ]
