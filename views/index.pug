@@ -1,6 +1,7 @@
 extends layout.pug
 
 block content
+  //This template is for the homepage
 
   article.portfolio-intro
 
@@ -9,23 +10,12 @@ block content
     p This is my portfolio!  This portfolio was built to showcase everything that I can do as a full stack JavaScript developer!  I have multiple different projects here to show some of the different things that I have built, as well as more information about me!
 
 
+  //This loops through each project in data.json and creates an another project on the page
   article.portfolio-project-thumbs
     .projects-box.box.grid
       each project in data
         .cell
-          a(href= `${project.live_link}`)
+          a(href= 'project/' + `${project.id}`)
             img.thumbnail(src= `${project.image_urls[0]}`)
             h5 #{project.project_name}
 
-
-      //- Use the Pug `each` iterator to loop over the projects in your data file  
-      
-        //- Use the example Pug code below and interpolated template literals as needed to dynamically generate:
-          //- The paths in the link's href and img's src attributes
-          //- The text 'Thumbnail' interpolated with the project title for the img's alt attribute
-          //- The project title for the h5 element's text
-
-        .cell
-          a(href='#')
-            img.thumbnail(src='https://placehold.it/550x550', alt='')
-            h5 My Site
