@@ -55,6 +55,8 @@ app.use((req, res, next) => {
 app.use((err, req, res, next) => {
     res.locals.error = err;
     res.status(err.status);
+    console.log(res.status);
+    console.log("There was an error loading this page")
     res.render('error');
 });
 
