@@ -23,26 +23,10 @@ app.get('/about', (req, res) => {
 
 
 //This next section creates a unique page for each project
-app.get('/project/:0', (req, res) => {
-    res.render('project', { data : data[0] })
+app.get('/project/:id', (req, res) => {
+    const id = req.params.id;
+    res.render('project', { data : data[id] });
 });
-
-app.get('/project/:1', (req, res) => {
-    res.render('project', { data : data[1] })
-});
-
-app.get('/project/:2', (req, res) => {
-    res.render('project', { data : data[2] })
-});
-
-app.get('/project/:3', (req, res) => {
-    res.render('project', { data : data[3] })
-});
-
-app.get('/project/:4', (req, res) => {
-    res.render('project', { data : data[4] })
-});
-
 
 //This is used to initiate a 404 error
 app.use((req, res, next) => {
